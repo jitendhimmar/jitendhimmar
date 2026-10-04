@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github.com/Jiten1312.png" width="150" alt="Jiten Dhimmar">
+<img src="https://github.com/jitendhimmar.png" width="150" alt="Jiten Dhimmar">
 
 # Hi! I am Jiten Dhimmar
 
@@ -12,9 +12,11 @@
 
 📍 Toronto, Ontario, Canada &nbsp;•&nbsp; 🎓 Masters in Applied Computing, University of Windsor
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jitendhimmar.github.io/portfolio/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiten-dhimmar/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jitendhimmar1312@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jiten1312)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jitendhimmar)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jiten_dhimmar/)
 
 ![Profile views](https://komarev.com/ghpvc/?username=jiten1312&color=0e75b6&style=flat)
@@ -23,121 +25,17 @@
 
 <img src="divider.png" width="100%" alt="" />
 
-## 👨‍💻 About Me
+## 🚀 Featured Projects
 
-Software Engineer who turns ideas into applications. I build backend systems with **Spring Boot** and **Python** (Django, FastAPI), work with **Big Data** (Spark, Databricks, Hadoop), and ship on **Azure** cloud. I like building dev tools, automating repetitive work, and experimenting with **GenAI-assisted engineering**.
-
-- 🔭 Currently **SDE2 @ TD Securities** — Risk Platform
-- 🤖 Into agent workflows & context engineering
-- 💡 I do best in demanding situations when effort, passion, and innovation are required for success
+- **[django-eCommerce](https://github.com/jitendhimmar/django-eCommerce)** — E-commerce web application built with Django & Python
+- **[COMP-8547-Web-Search-Engine](https://github.com/jitendhimmar/COMP-8547-Web-Search-Engine)** — Web search engine (graduate coursework)
+- **[farmer_chatbot_nodApi](https://github.com/jitendhimmar/farmer_chatbot_nodApi)** — Node.js API backend for a farmer chatbot
 
 ---
 
-## 🧠 Engineering Mindset
-
-Beyond any single stack — what I think about as a software engineer:
-
-- 🤖 How AI-assisted engineering is reshaping the way we build software
-- 🏗️ Designing systems that scale gracefully and fail gracefully
-- 🛠️ Developer experience: automate the toil, keep the craft
-
----
-
-## 💼 Experience
-
-_Click a role to expand 👇_
-
-<details>
-<summary><b>TD / TD Securities</b> — Senior IT Developer · Jan 2023 – Present</summary>
-<br>
-
-One of Canada's largest banks; its wholesale banking arm, TD Securities, serves corporate and institutional clients with capital markets services.
-
-Senior-level developer role on the Risk Platform team, held after various other roles across the bank's technology organization.
-</details>
-
-<details>
-<summary><b>Elaachi LLC</b> — Voice Assistant Developer · Aug 2021 – Dec 2021</summary>
-<br>
-
-A hospitality technology startup building voice assistants that provide 24/7 AI guest support for hotels.
-
-Developer role focused on voice assistant technology.
-</details>
-
-<details>
-<summary><b>Green Software</b> — Software Engineer · May 2021 – Jul 2021</summary>
-<br>
-
-A software development company based in Surat, India.
-
-Software engineer role in application development.
-</details>
-
-<details>
-<summary><b>Institute for Plasma Research</b> — Project Trainee, System Integration · Dec 2020 – Apr 2021</summary>
-<br>
-
-An autonomous research institute under India's Department of Atomic Energy, dedicated to plasma physics and fusion energy research.
-
-Trainee role in the system integration group.
-</details>
-
----
-
-## 🛠️ My Skills
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,spring,django,fastapi,azure,kubernetes,docker,terraform,githubactions,postgres,mongodb,mysql,sqlite,git&theme=dark&perline=8" alt="My skills">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jitendhimmar&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jitendhimmar&theme=dark&hide_border=true" alt="GitHub streak" />
 </p>
-
----
-
-## 🚀 Portfolio
-
-- **[django-eCommerce](https://github.com/Jiten1312/django-eCommerce)** — E-commerce web application built with Django & Python
-- **[COMP-8547-Web-Search-Engine](https://github.com/Jiten1312/COMP-8547-Web-Search-Engine)** — Web search engine (graduate coursework)
-- **[farmer_chatbot_nodApi](https://github.com/Jiten1312/farmer_chatbot_nodApi)** — Node.js API backend for a farmer chatbot
-
-<img src="divider.png" width="100%" alt="" />
-
-## 📸 Photography
-
-I like clicking photos — especially landmarks. More coming soon.
-
-<!-- PHOTOS:START -->
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="photos/city_lights.jpg" width="100%" alt="CN Tower, Toronto"><br>
-      <sub>City lights</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="photos/mountains.JPG" width="100%" alt="Mountains"><br>
-      <sub>Somewhere in the mountains</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="photos/falls.JPG" width="100%" alt="Autumn"><br>
-      <sub>Chasing autumn hues</sub>
-    </td>
-  </tr>
-</table>
-<!-- PHOTOS:END -->
-
----
-
-## 📬 Contact Me
-
-<div align="center">
-
-📍 Toronto, Ontario, Canada
-
-📧 jitendhimmar1312@gmail.com
-
-[![WORK TOGETHER](https://img.shields.io/badge/WORK_TOGETHER-0E75B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jitendhimmar1312@gmail.com?subject=Let%27s%20work%20together)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiten-dhimmar/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jiten_dhimmar/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jiten1312)
-
-</div>
